@@ -1,6 +1,8 @@
 sfdx-devhub-pool
 ================
 
+Installation : https://github.com/alcabon/sfdx-devhub-pool/wiki
+
 SFDX plugin to generate scratch orgs without hitting daily limit by using multiple DevHub orgs as a pool 
 
 [![Version](https://img.shields.io/npm/v/sfdx-devhub-pool.svg)](https://npmjs.org/package/sfdx-devhub-pool)
